@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**1nstt/1nstt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Renato 👋
 
-Here are some ideas to get you started:
+I'm a Computer Science and Telecommunications Engineering student at Universidad Diego Portales, Chile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- Interested in Data Science, Machine Learning and AI.
+- Exploring software engineering and intelligent systems.
+- Building projects that solve real-world problems.
+
+### Tech Stack
+- Python
+- JavaScript / TypeScript
+- React / Next.js
+- Node.js / Express
+- PostgreSQL / MongoDB
+- Scikit-learn
+
+### Languages
+- 🇨🇱 Spanish: Native
+- 🇬🇧 English: Intermediate
+
+### Connect with me
+- Portfolio: [renatoyanez.vercel.app](https://renatoyanez.vercel.app)
+- GitHub: [github.com/1nstt](https://github.com/1nstt)
