@@ -17,8 +17,8 @@ I'm a Computer Science and Telecommunications Engineering student at Universidad
 - Scikit-learn
 
 ### Languages
-- 🇨🇱 Spanish: Native
-- 🇬🇧 English: Intermediate
+-  Spanish: Native
+-  English: Intermediate
 
 ### Connect with me
 - Portfolio: [renatoyanez.vercel.app](https://renatoyanez.vercel.app)
